@@ -3,3 +3,5 @@
 *Inicio del proyecto:En construccion.
 
 ``npm install react``
+
+Sistema de registro 2.
